@@ -1,8 +1,10 @@
 function Home() {
   return (
-    <div>
-      <h1>Welcome to ROOT</h1>
-      <p>Reviving Traditional Indian Wellness</p>
+    <div className="hero">
+      <h1 className="hero-title">Explore Your Roots</h1>
+      <p className="hero-subtitle">
+        Reviving Traditional Indian Wellness — one root, one ritual, one story at a time.
+      </p>
     </div>
   )
 }
