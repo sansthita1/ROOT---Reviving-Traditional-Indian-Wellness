@@ -26,8 +26,10 @@
   color: #888;
   margin: 0;
 }
-.site-navbar {
-  background-color: #8b5e3c;
+
+
+  .site-navbar {
+  background-color: #1a1a1a;
   display: flex;
   gap: 24px;
   padding: 20px 30px;
